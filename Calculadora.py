@@ -7,7 +7,7 @@ class Calculadora:
 
         # Janela
         toplevel.title('Calculadora')
-        toplevel.geometry("210x200")
+        toplevel.geometry("220x200")
 
         # Espaçamento
         self.frame1 = Frame(toplevel)
